@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Copyright (c) 2019 Mattel, Inc. All rights reserved.
+  ~  All information and code contained herein is the property of Mattel, Inc.
+  ~  Any unauthorized use, storage, duplication, and redistribution of this
+  ~  material without written permission from Mattel, Inc. is strictly prohibited.
+  ~
+  ~
+  -->
+
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>
